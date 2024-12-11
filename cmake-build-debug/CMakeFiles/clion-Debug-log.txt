@@ -1,1 +1,1 @@
-CMakeLists.txt not found in /home/mm/Documents/dev/CPP_Tut Select CMakeLists.txt
+CMakeLists.txt not found in /home/mm/Documents/Solutions/VJudge-Problems-Solving-Level-1 Select CMakeLists.txt
